@@ -7,4 +7,6 @@ function newItem(url){
         inventory.append(inventoryItem)
     })
     return item
+
+    
 }
